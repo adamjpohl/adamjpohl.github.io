@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Adam J. Pohl
 
-You can use the [editor on GitHub](https://github.com/adamjpohl/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Articles
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Published in the [Chamblee Blue and Gold](https://chambleeblueandgold.com/)
 
-### Markdown
+[_Waking a Giant: How San Francisco Beat the Odds_](https://chambleeblueandgold.com/10300/sports/waking-a-giant-how-san-francisco-beat-the-odds/) (Oct. 4, 2021)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[_Mismanagement, Minor League Problems, and My Master Plan to Fix Them_](https://chambleeblueandgold.com/9590/sports/mismanagement-minor-league-problems-and-my-master-plan-to-fix-them/) (April 20, 2021)
 
-```markdown
-Syntax highlighted code block
+### Piano
 
-# Header 1
-## Header 2
-### Header 3
+[Claire de Lune](https://www.youtube.com/watch?v=xFtQGUd8KnY) (played for church service)
 
-- Bulleted
-- List
+[Suite Bergamasque](https://www.youtube.com/watch?v=AKqfx7WioJI)
 
-1. Numbered
-2. List
+### Alto, Tenor, and Baritone Saxophone
 
-**Bold** and _Italic_ and `Code` text
+[Saxophone Solo "Quartet"](https://youtu.be/xEE98ottxLc)
 
-[Link](url) and ![Image](src)
-```
+### Speaking
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adamjpohl/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Homily for church service](https://youtu.be/2_Nc5QUxeyw?t=410)
