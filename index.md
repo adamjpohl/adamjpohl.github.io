@@ -8,7 +8,7 @@
 
 [Mismanagement, Minor League Problems, and My Master Plan to Fix Them](https://chambleeblueandgold.com/9590/sports/mismanagement-minor-league-problems-and-my-master-plan-to-fix-them/) (April 20, 2021).
 
-[All articles in _The Blue & Gold_](https://docs.google.com/spreadsheets/d/1FnkvqSYrYWTs_LeL8j51JMQDYE6vBmPssQGq6fUQC6o/edit?usp=sharing)
+[All articles in _The Blue & Gold_](https://chambleeblueandgold.com/staff_name/adam-pohl/)
 
 #### Published in [_Teen Ink_ Magazine](https://issuu.com/teenink)
 
