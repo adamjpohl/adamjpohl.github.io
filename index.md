@@ -16,9 +16,11 @@
 
 ### Piano
 
-[Claire de Lune](https://www.youtube.com/watch?v=xFtQGUd8KnY) (played for church service)
+[Claire de Lune (Debussy)](https://www.youtube.com/watch?v=xFtQGUd8KnY) (played for church service)
 
-[Suite Bergamasque](https://www.youtube.com/watch?v=AKqfx7WioJI)
+[Suite Bergamasque (Debussy)](https://www.youtube.com/watch?v=AKqfx7WioJI)
+
+[Prelude in G Minor (Rachmaninoff)](https://www.youtube.com/watch?v=K_YqEO91qsg)
 
 ### Alto, Tenor, and Baritone Saxophone
 
